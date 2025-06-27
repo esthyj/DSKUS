@@ -1,5 +1,6 @@
 # 🌎 DSKUS
-This project was done in ‘2023 DSKUS’ program.The Data Science South Korea/US (DSKUS) Global Lab is a cross-national project between Hanyang University in Seoul, DePaul University, and Indiana University. The program is funded by a grant from the United States Embassy in Seoul (via the US State Department). Teams of students from the three universities work together to solve unique data science challenges with real-world implications
+This project was done in ‘2023 DSKUS’ program.The Data Science South Korea/US (DSKUS) Global Lab is a cross-national project between Hanyang University in Seoul, DePaul University, and Indiana University. The program is funded by a grant from the United States Embassy in Seoul (via the US State Department). Teams of students from the three universities work together to solve unique data science challenges with real-world implications.\
+- **Project Duration:** 2023.03~2023.06
 
 ## 👥 Members
 Members of Group 6 was Carolyn Haythorn(MS in Indianan University), Sneha Satish(MS in Indiana University), Haneul Kim(MS in Hanyang University), Yeeun Jeon(Junior in Hanyang University)
